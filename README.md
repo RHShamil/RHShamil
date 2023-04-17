@@ -1,4 +1,3 @@
-![logo](https://github.com/RHShamil/Rezuanul_Hoque/blob/main/49136.jpg)
 <h1 align="center">Hi 👋, I'm Rezuanul Hoque</h1>
 <h3 align="center">Passionate Cloud & Server Administrator from Bangladesh</h3>
 
