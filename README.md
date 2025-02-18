@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rezuanul hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezuanul hoque" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/rezuanul hoque](https://www.linkedin.com/in/rezuanul-hoque-3258991a1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezuanul hoque" height="30" width="40" /></a>
 <a href="https://fb.com/sha mil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sha mil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rezuanul hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rezuanul hoque" height="30" width="40" /></a>
 </p>
