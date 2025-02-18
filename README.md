@@ -6,19 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhshamil&label=Profile%20views&color=0e75b6&style=flat" alt="rhshamil" /> </p>
 
-- 🔭 I’m currently working on **Azure based R&D**
+- 🔭 I’m currently working on **RedHat,Azure,AWS,M365**
 
-- 🌱 I’m currently learning **Python, AZ-104, RHCE**
+- 🌱 I’m currently learning **Bashscript,DevOps,AWS**
 
 - 📝 I regularly write articles on [https://techamazerhs.blogspot.com/](https://techamazerhs.blogspot.com/)
 
-- 💬 Ask me about **RHCSA, AZ-900, Windows Server, Network Infrastructure**
+- 💬 Ask me about **Linux,Azure,AWS,M365,K8s**
 
-- 📫 How to reach me **rezwanul.shamil@gmail.com**
+- 📫 How to reach me **hoque.shamil@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10WDPcOhg5l39sbKwSwR_yqFCY6TsLk3e/view?usp=share_link](https://drive.google.com/file/d/10WDPcOhg5l39sbKwSwR_yqFCY6TsLk3e/view?usp=share_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1cwn32Hzj3eiOmFhjLxhYTnpSVY8aGKZu/edit?usp=sharing&ouid=113843676787789591197&rtpof=true&sd=true](https://docs.google.com/document/d/1cwn32Hzj3eiOmFhjLxhYTnpSVY8aGKZu/edit?usp=sharing&ouid=113843676787789591197&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I think I am not good at lying**
+- ⚡ Fun fact **Learning is an investment with best return**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
